@@ -25,3 +25,6 @@ The application leverages the following technologies:
 - Flowbite Components: A library of reusable UI components that facilitates the development of modern web applications.
 
 With the combination of these technologies, our project aims to provide a seamless experience for users in managing their social media content creation needs.
+
+[PROJECT REPORT.pdf](https://github.com/Sashi2002/Content-Creation-using-LLM-and-CNN/files/15293708/AI.TEAM.1.PROJECT.REPORT.pdf)
+
